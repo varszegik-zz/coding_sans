@@ -1,0 +1,158 @@
+[
+    {
+        "alcohol": "0.13",
+        "beertype": "Búza",
+        "id": "HH1ch0UhX2tJHB6FQJsvRK9CXKaqqDVuJdLInQ_t4UCCdj9u7XUwD-hEanMn__EaqsAXL_Bnn6rBEiUO_rMliw==",
+        "ingredients": [
+            {
+                "id": "_Tgqk5rSzTWNDqEBzL1xXlLa_dotthqbfGUrdmzdds_jtmGui0PjAqRjpwa-bzezcjWY7LrkLTJ9ijcj6Xme9A==",
+                "name": "só",
+                "ratio": 0.17
+            },
+            {
+                "id": "nSS61mhFV7PE5emtVQHNcMzfgSqAqWvCXwjR7VvhRMlIFbIGSy7G73fCbInJ7bh4lGhzhc19Bd-yro0Rol4hYw==",
+                "name": "cukor",
+                "ratio": 0.03
+            },
+            {
+                "id": "Elpq0BFrR09GRO7bo25smormXirVIwlVevh_APcCsRyIZ_2JVrDmjWrd6q00qyC9NsAmplMPuF3c8GlKqfR2oA==",
+                "name": "árpa",
+                "ratio": 0.3
+            }
+        ],
+        "isCan": true,
+        "name": "Arany Fácán Búza",
+        "price": 2938,
+        "water": 0.49999999999999994
+    },
+    {
+        "alcohol": "0.06",
+        "beertype": "Búza",
+        "id": "NpfQ946nJJfBO-q5-1pIf6bkHpRUcZqke3lAikIuWBG5O79-MlFvOXwX0fO9SqxttnHuK4J9KwOyVJE-IFmFXg==",
+        "ingredients": [
+            {
+                "id": "mgbSmk3PCkTS-oFhLrZY4EsGl5B0ZezBBZFIluXzv5UIccmowdTGJnGmfVKJIxAWbp6c8XTF2pI5aZlpUMwzow==",
+                "name": "só",
+                "ratio": 0.08
+            },
+            {
+                "id": "nZyv49Ja7G3XdeJ7XuF4X7_6mIutbJncsZG1OBFU-cTOiyH_LBWM-4Vi2fojbm9n--8UbdhxDFcysVf5JiM3WQ==",
+                "name": "cukor",
+                "ratio": 0.22
+            },
+            {
+                "id": "j_qqNPHrhcDh1i9bnNYsAm9-mudUPss_tXz5BwDOSqKt515_X_Y-OHEyHzBNRgxCDHGt6fdDMTKb-jXRISBPMA==",
+                "name": "árpa",
+                "ratio": 0.2
+            }
+        ],
+        "isCan": false,
+        "name": "Kőbányai Búza",
+        "price": 2175,
+        "water": 0.5
+    },
+    {
+        "alcohol": "0.09",
+        "beertype": "Búza",
+        "id": "0KGwlqHBjAM3DaSorL3wUUS5M1V13cCUG38kT9xCMKvTFPnReSt8CBUL_FIfj6JNmL90CQZdaABxUCAR2v-cIA==",
+        "ingredients": [
+            {
+                "id": "h8HpXC2TIGSNAKU332vPVSGVYhAmVNbbAEYRv5mf40ZNPSufxg-0hgOTp8VGUSr-x_TN76jThXVnHpV5Rq4pIQ==",
+                "name": "só",
+                "ratio": 0.06
+            },
+            {
+                "id": "2NXwTBp4UrpqUnIKRQdqBqKs0z8ILbhcCagciCbWGy8pvuYH_yOFzmRs5TI0HkyFgYYpAX9IhOUI7BDtpg0lNw==",
+                "name": "cukor",
+                "ratio": 0.07
+            },
+            {
+                "id": "kafQ5jPWX1jY2d8b8uw03kSJmRxViAV5VacX5h09R2Gwdkm-E0pVJoxf3IkAbkaDHbfn6eGw3pugvoIA4kObbA==",
+                "name": "árpa",
+                "ratio": 0.37
+            }
+        ],
+        "isCan": true,
+        "name": "Kőbányai Búza",
+        "price": 18,
+        "water": 0.4999999999999999
+    },
+    {
+        "alcohol": "0.07",
+        "beertype": "Búza",
+        "id": "PAKaJ0ZHGGQE1oMGn19H1yxo7z34nrt-B2IhEX0g92JWfAwUj4K7J45OOkS9FQoCMMnDk9uogUkbqXaWMQ9C2g==",
+        "ingredients": [
+            {
+                "id": "LTadpYTo7Jt6A0VOqY6Ux69oBkVFLwxL6w_9dSS0nHmLiIipxkXKsztToIldab97tJoH9ETuCF6i_NgUbG1vXQ==",
+                "name": "só",
+                "ratio": 0.17
+            },
+            {
+                "id": "UTYrd-NXtVt-SKSxSsDO6XCNcDOlvyehdcwyUevPaOlwYx2TE5ffckkP1CEkRFMp52EhgcAtSgjTmw3nOUn7Lw==",
+                "name": "cukor",
+                "ratio": 0.23
+            },
+            {
+                "id": "wM1YQkn1rd5G0A6UyJuVteYy5nI7HmAutkKHFpBsjRgodFrqGQFr7qak3CfbMw2cjrBwr0l0VTPitRNfyQ4B0g==",
+                "name": "árpa",
+                "ratio": 0.1
+            }
+        ],
+        "isCan": true,
+        "name": "Arany Ászok Búza",
+        "price": 1303,
+        "water": 0.5
+    },
+    {
+        "alcohol": "0.06",
+        "beertype": "Búza",
+        "id": "3yKtfPSUm50IMGXUkHRRP8Ktk4DVD3c-9TyTUA3Onx9CSNigFQJF8bSao6Kd23EKs7JaorwH9rG6pwBk-rZEng==",
+        "ingredients": [
+            {
+                "id": "KSm5g9XkEjfgXaSwYECY1PwfuF2Ez0YEFvFBGkfxAhDeBoQg-PGVpaWkw27tqIhR3r-GRCbSOc1vGtEYm9aNag==",
+                "name": "só",
+                "ratio": 0.18
+            },
+            {
+                "id": "94kFaXVq-47vEJYhNr6tbYAR8jBPZQcvQVLXLo4kMIrWwInU9YmQGWap8K1oAhYDFUHGtt7OEcjwnvcRkc1rnA==",
+                "name": "cukor",
+                "ratio": 0.31
+            },
+            {
+                "id": "EHagAcn39OGXLSGMgCB6-ZQyy6kGAvBPlDDIU8RcEq27ofIJvN0alDgBK26StNTMoThu82CSJ-7TzGJ7iiH6dg==",
+                "name": "árpa",
+                "ratio": 0.02
+            }
+        ],
+        "isCan": false,
+        "name": "Balatoni Világos Búza",
+        "price": 1364,
+        "water": 0.49
+    },
+    {
+        "alcohol": "0.12",
+        "beertype": "Búza",
+        "id": "Y_ZgU1RUEzeOV2uMQ6-4XOQau8NOQcTVITghJO3Drp5UcnvBWvkY3D8CPRSpZcuCEwmaZH5algishC0qNWsBCA==",
+        "ingredients": [
+            {
+                "id": "LQ36lV5wxRqruUh_oERVZu378ZnJl57LoxrAkb-FfdPPMvIkQXjROdOKsw9QVsDDDH2T4TZhatFrK0KiB5i99g==",
+                "name": "só",
+                "ratio": 0.02
+            },
+            {
+                "id": "P_1epJTYEnLH4hY6JauRwxEA3WrsrB_E2y4_1f-P6oElsvjU-pGej8gwuozwTomnyTVe008WlG7VVucNNKaL8g==",
+                "name": "cukor",
+                "ratio": 0.33
+            },
+            {
+                "id": "vwxqD1lZbXc91Zc6SXetpHuGfrQ6v9pvVUlSbMMOKSYDNHxZz3EJ1W-0ymRJFFQzhuN44Vpm3dnUdD2oo7JAfA==",
+                "name": "árpa",
+                "ratio": 0.16
+            }
+        ],
+        "isCan": false,
+        "name": "Dreher Búza",
+        "price": 706,
+        "water": 0.4899999999999999
+    }
+]
