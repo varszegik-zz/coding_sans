@@ -1,4 +1,3 @@
-import codecs
 from operator import attrgetter
 
 

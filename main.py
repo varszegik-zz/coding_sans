@@ -1,7 +1,6 @@
 import json
 import jsonpickle
 from beer import Beer, Brand, Inventory
-from operator import attrgetter
 
 inv = Inventory()
 
