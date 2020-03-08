@@ -1,6 +1,6 @@
 import json
 import jsonpickle
-from beer import Beer, Brand, Inventory
+from beer import Beer, Inventory
 
 inv = Inventory()
 
