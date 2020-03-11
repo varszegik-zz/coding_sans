@@ -63,9 +63,6 @@ class Brand:
     def __eq__(self, _brand):
         return self.brand == _brand
 
-    def append(self, _beer):
-        self.beers.append(_beer)
-
     def filter_by_type(self, beertype):
         """
         This function selects all beers that are the type given in param beertype
@@ -107,19 +104,6 @@ class Inventory:
     def __init__(self):
         self.brands = []
 
-    def add_if_exists(self, _beer, _brand):
-        """
-        The function appends the given beer in param _beer to the brand given in param _brand, if it exists.
-        :param _beer: The beer object to be added
-        :param _brand: The name of the brand
-        :return: Returns True if addition was successful, False otherwise
-        """
-        for br in self.brands:
-            if br == _brand:
-                br.append(_beer)
-                return True
-        return False
-
     def push(self, _beer, _brand):
         """
         Checks if the given brand exists, and adds to it if it does.
@@ -127,7 +111,9 @@ class Inventory:
         :param _beer: The beer to be added
         :param _brand: The beer's brand
         """
-        if not self.add_if_exists(_beer, _brand):
+        try:
+            self.brands[self.brands.index(_brand)].beers.append(_beer)
+        except ValueError:
             self.brands.append(Brand(_brand, _beer))
 
     def search_by_type(self, beertype):
@@ -169,3 +155,14 @@ class Inventory:
         for brand in self.brands:
             data += brand.beers
         return sorted(data, key=attrgetter('water'), reverse=True)
+
+    def create_hash_map(self):
+        map = {}
+        for brand in self.brands:
+            for beer in brand.beers:
+                key = round(beer.price, -2)
+                if key in map:
+                    map[key].append(beer)
+                else:
+                    map[key] = [beer]
+        return map
