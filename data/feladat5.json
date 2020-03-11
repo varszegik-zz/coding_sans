@@ -52,84 +52,6 @@
         "water": 0.51
     },
     {
-        "alcohol": "0.10",
-        "beertype": "Szűretlen",
-        "id": "CUpar7dfcQ7Rpu4glyTT72afxKPGjyL58xtOa8lBonpbyClRFl3NlH6Al0Ky1u-b2oWbYkwnMQcjPHprRsFASw==",
-        "ingredients": [
-            {
-                "id": "Fn6Xz96uJ7HUPa_BdsodGf6rLd1Gz0Y5yv_0li3T6_hYjYeEuQgHMyRc9UFHeIJO2Etb5wRW9mcmMqqWyIY8Og==",
-                "name": "só",
-                "ratio": 0.21
-            },
-            {
-                "id": "uHq1-nnQVsH3SJhqgJ4nNLubKFwJecfcAeUyWdzPLevLAtaL_ydvw6u35FcTLg3XKpB_8xkp7yTLcy7aID2yYQ==",
-                "name": "cukor",
-                "ratio": 0.18
-            },
-            {
-                "id": "OZ--vzxW2imoC_SJqtsiXm2p-74GkS9IYWffcHO6fAGgz7c4Os9SAutbtNgd4omnOKadffXVPhAro8-J-am9cA==",
-                "name": "árpa",
-                "ratio": 0.11
-            }
-        ],
-        "isCan": true,
-        "name": "Kőbányai Szűretlen",
-        "price": 3114,
-        "water": 0.5000000000000001
-    },
-    {
-        "alcohol": "0.07",
-        "beertype": "Szűrt",
-        "id": "fwDukT3WOSaRRhPMaDMyGqo_RqzyRUu1o2TbA9zoTByvHKJPrbBEaz_0qn8NtwQUB0NKgeYkiXW6iehL1XS8Kw==",
-        "ingredients": [
-            {
-                "id": "MtZGvKNGtoJeys8asSWTozeO_NJ8mRL6L17cFICUthdoS_2aEoBtV3vPMQbRgk5JwAR37iMf4AnWI09cxk4lJQ==",
-                "name": "só",
-                "ratio": 0.19
-            },
-            {
-                "id": "StP0AUAbV3G8-Yt-srwiYZjcYm6zJmrr1TLrlpa4pHS6lvMMyKtC8jpW5Gx8WfdyTLzC1TZApLFTxbnSVE0uJQ==",
-                "name": "cukor",
-                "ratio": 0.19
-            },
-            {
-                "id": "2Vt3IKRMDlRMh8C3Z1-JhU1pPgQ77kFd87T37n2g0IjaERcYoYa5GcBhA71dtMSOAVhr29Dhx7b9GCOyLRhdWw==",
-                "name": "árpa",
-                "ratio": 0.12
-            }
-        ],
-        "isCan": false,
-        "name": "Dreher Szűrt",
-        "price": 2830,
-        "water": 0.5000000000000001
-    },
-    {
-        "alcohol": "0.04",
-        "beertype": "Világos",
-        "id": "_QAkKATjOspMR9TzPDw1HSvD5MogOlJWHTSHu4M5qKuFKBUYFg0fmUKewlKVpRKkdBolmVMXE8R7WgvzvaEdzQ==",
-        "ingredients": [
-            {
-                "id": "OAjjBCp59Plc8Y2k2uu45UdZYH9zN03MT3CQPhUCSy-sXklnygwP_nthhJJ8vI8ygN4tMGKtfTeLk2sXlRM1Ug==",
-                "name": "só",
-                "ratio": 0.18
-            },
-            {
-                "id": "0acVbK1a_Gl_kY17fkzZqrIDH43Trq9oKfTUzr1NR9Aj29a-kMJrqBkcMy858T1Pb8zKef0L0OlBr6jXX0XElw==",
-                "name": "cukor",
-                "ratio": 0.21
-            },
-            {
-                "id": "dqdy1E9NFkE3Ip350Ezyg36KFTBXOSDA3AqtzwZ5o1fsc6AM0aThAFpESMmm0VvAiVEBbEiB6UxjSJrTmLJo6Q==",
-                "name": "árpa",
-                "ratio": 0.11
-            }
-        ],
-        "isCan": false,
-        "name": "Dreher Világos",
-        "price": 1158,
-        "water": 0.5000000000000001
-    },
-    {
         "alcohol": "0.05",
         "beertype": "Szűrt",
         "id": "jBEN8QCdKoNrAW5WuF_heUaOiZYBJopRv2Na5SoHdlCs5iyYMGl6qCnJ0tVt0RtTnvUT_xeXHOg1kUk8GgbuCw==",
@@ -153,6 +75,58 @@
         "isCan": true,
         "name": "Arany Fácán Szűrt",
         "price": 3010,
+        "water": 0.5
+    },
+    {
+        "alcohol": "0.13",
+        "beertype": "Búza",
+        "id": "HH1ch0UhX2tJHB6FQJsvRK9CXKaqqDVuJdLInQ_t4UCCdj9u7XUwD-hEanMn__EaqsAXL_Bnn6rBEiUO_rMliw==",
+        "ingredients": [
+            {
+                "id": "_Tgqk5rSzTWNDqEBzL1xXlLa_dotthqbfGUrdmzdds_jtmGui0PjAqRjpwa-bzezcjWY7LrkLTJ9ijcj6Xme9A==",
+                "name": "só",
+                "ratio": 0.17
+            },
+            {
+                "id": "nSS61mhFV7PE5emtVQHNcMzfgSqAqWvCXwjR7VvhRMlIFbIGSy7G73fCbInJ7bh4lGhzhc19Bd-yro0Rol4hYw==",
+                "name": "cukor",
+                "ratio": 0.03
+            },
+            {
+                "id": "Elpq0BFrR09GRO7bo25smormXirVIwlVevh_APcCsRyIZ_2JVrDmjWrd6q00qyC9NsAmplMPuF3c8GlKqfR2oA==",
+                "name": "árpa",
+                "ratio": 0.3
+            }
+        ],
+        "isCan": true,
+        "name": "Arany Fácán Búza",
+        "price": 2938,
+        "water": 0.5
+    },
+    {
+        "alcohol": "0.10",
+        "beertype": "Barna",
+        "id": "reCD63JnijspU9vR7mMZlTnLAXiy4gFa8LPkYuvBk1_svJWIEAXNzYReJggDP0uL17LfbmHitlZZwJPai-QO4g==",
+        "ingredients": [
+            {
+                "id": "_cRUSt7VlEGfblVlUmBoMfym708fQxUl2ml4x4Y9cKgoL08XeEKwZXF8ieKk6oaLUfrVcjR5sS1UCBvjiHiMUQ==",
+                "name": "só",
+                "ratio": 0.07
+            },
+            {
+                "id": "1c8WuPwAeoJXhLBpGL4rDva02CyNMEF63X0g1mMqNT_UPk1xJL1o227LYQn3oTT6S5PxCVycZWUvazfDkiV3FQ==",
+                "name": "cukor",
+                "ratio": 0.13
+            },
+            {
+                "id": "mfkP0DANOCiYqpYEuv2552vnVhUq8Vl8w1rX1tw4ShnpDc_zmNkSnMM93mOhgbgwee0mRU_sH0cY_zkRWQqsDA==",
+                "name": "árpa",
+                "ratio": 0.3
+            }
+        ],
+        "isCan": false,
+        "name": "Arany Fácán Barna",
+        "price": 1619,
         "water": 0.5
     },
     {
@@ -234,6 +208,32 @@
         "water": 0.5
     },
     {
+        "alcohol": "0.09",
+        "beertype": "Búza",
+        "id": "0KGwlqHBjAM3DaSorL3wUUS5M1V13cCUG38kT9xCMKvTFPnReSt8CBUL_FIfj6JNmL90CQZdaABxUCAR2v-cIA==",
+        "ingredients": [
+            {
+                "id": "h8HpXC2TIGSNAKU332vPVSGVYhAmVNbbAEYRv5mf40ZNPSufxg-0hgOTp8VGUSr-x_TN76jThXVnHpV5Rq4pIQ==",
+                "name": "só",
+                "ratio": 0.06
+            },
+            {
+                "id": "2NXwTBp4UrpqUnIKRQdqBqKs0z8ILbhcCagciCbWGy8pvuYH_yOFzmRs5TI0HkyFgYYpAX9IhOUI7BDtpg0lNw==",
+                "name": "cukor",
+                "ratio": 0.07
+            },
+            {
+                "id": "kafQ5jPWX1jY2d8b8uw03kSJmRxViAV5VacX5h09R2Gwdkm-E0pVJoxf3IkAbkaDHbfn6eGw3pugvoIA4kObbA==",
+                "name": "árpa",
+                "ratio": 0.37
+            }
+        ],
+        "isCan": true,
+        "name": "Kőbányai Búza",
+        "price": 18,
+        "water": 0.5
+    },
+    {
         "alcohol": "0.07",
         "beertype": "Szűrt",
         "id": "1YSlr2O7QbPNC2uWRYaFscIjZczWwEY5WL8U915yQQlkbIbcFWa4f_McHH59h9BhTDbGenqNDn6FmZ8ekvjgsw==",
@@ -257,6 +257,32 @@
         "isCan": true,
         "name": "Kőbányai Szűrt",
         "price": 3878,
+        "water": 0.5
+    },
+    {
+        "alcohol": "0.08",
+        "beertype": "Szűrt",
+        "id": "-eFvv5L8fRMarUPw9ggDEd8Sv41Ta732FB86Wdtg8qP5UyaNNLdwsBcCj5s2an4wQiBruLy15BAnTwcu1J3Vuw==",
+        "ingredients": [
+            {
+                "id": "zz7WPeSfL4v5wLaL4mlZKXo3A2jH1rrVTwnv39ohIGEGVMvUeCLTxjYUWYS0qYobTrDdaJx6-_-GuszHn0j00g==",
+                "name": "só",
+                "ratio": 0.05
+            },
+            {
+                "id": "GDgXGs9EwR8SzwOmYH1MTm26RV_PMYUbWRfMh2u1d_wyk8Q5MyPWKGpemyPzBKyuaG2CMafwEsOTNsjH2MtUbw==",
+                "name": "cukor",
+                "ratio": 0.26
+            },
+            {
+                "id": "pAChmYvbX5uG5pP0E-dykfy-uUf9bq1xgBaKpyd8qhki8V-wYz8YvMWqfUQN0c997YvmQg-d6hxcd-aQghrvuw==",
+                "name": "árpa",
+                "ratio": 0.19
+            }
+        ],
+        "isCan": true,
+        "name": "Kőbányai Szűrt",
+        "price": 1436,
         "water": 0.5
     },
     {
@@ -286,6 +312,58 @@
         "water": 0.5
     },
     {
+        "alcohol": "0.05",
+        "beertype": "Barna",
+        "id": "WRdkKBQ3Yc8HIlWLa5scZ0WkACgduBYlk6n9obOFut0V_2YZPHySER8gu9hteUSZOpt1vy0bPj9tWQFI5KfPaQ==",
+        "ingredients": [
+            {
+                "id": "V_yENubeyPxUbuoWNAd8-tlhqCbID9-aZcNtowrIHki3HkAo68H3ch6_MMVpNWrA4WnHNy1r897zPbaKXMlPXQ==",
+                "name": "só",
+                "ratio": 0.16
+            },
+            {
+                "id": "9hThPd_ezqxNvHilzwRwoSnIGZXwLsZJqFlCX0vlO2EHLm46CyWXV11CvRUleAiA5uqtvIGJtJRrLekzbpKzsg==",
+                "name": "cukor",
+                "ratio": 0.18
+            },
+            {
+                "id": "z8ds5HBNNspN5wop4ZoP5zm_cEMCD6dGVn93xau2j-ukASgADMgpbw9c2c20-B4uTir16M04BmyL9HbtyNlnbQ==",
+                "name": "árpa",
+                "ratio": 0.16
+            }
+        ],
+        "isCan": true,
+        "name": "Kőbányai Barna",
+        "price": 8688,
+        "water": 0.5
+    },
+    {
+        "alcohol": "0.10",
+        "beertype": "Szűretlen",
+        "id": "CUpar7dfcQ7Rpu4glyTT72afxKPGjyL58xtOa8lBonpbyClRFl3NlH6Al0Ky1u-b2oWbYkwnMQcjPHprRsFASw==",
+        "ingredients": [
+            {
+                "id": "Fn6Xz96uJ7HUPa_BdsodGf6rLd1Gz0Y5yv_0li3T6_hYjYeEuQgHMyRc9UFHeIJO2Etb5wRW9mcmMqqWyIY8Og==",
+                "name": "só",
+                "ratio": 0.21
+            },
+            {
+                "id": "uHq1-nnQVsH3SJhqgJ4nNLubKFwJecfcAeUyWdzPLevLAtaL_ydvw6u35FcTLg3XKpB_8xkp7yTLcy7aID2yYQ==",
+                "name": "cukor",
+                "ratio": 0.18
+            },
+            {
+                "id": "OZ--vzxW2imoC_SJqtsiXm2p-74GkS9IYWffcHO6fAGgz7c4Os9SAutbtNgd4omnOKadffXVPhAro8-J-am9cA==",
+                "name": "árpa",
+                "ratio": 0.11
+            }
+        ],
+        "isCan": true,
+        "name": "Kőbányai Szűretlen",
+        "price": 3114,
+        "water": 0.5
+    },
+    {
         "alcohol": "0.08",
         "beertype": "Barna",
         "id": "P1Gg217FWb9Jvxs-xciaMHQ891vHmaE-nhm6hVpdKDgusFH4CKEGReQxJ60o6f9gbM7NsiyyWvMGY6JeaIVJbw==",
@@ -309,6 +387,32 @@
         "isCan": false,
         "name": "Arany Ászok Barna",
         "price": 429,
+        "water": 0.5
+    },
+    {
+        "alcohol": "0.06",
+        "beertype": "Világos",
+        "id": "FV1Mg-OthYhTMHpwp1fDGBJ5OZ6TI3WPhXK05LeZvSTb33sUQknps_YXarWmIzaeb8zH41vZPrlbUeilz1RwvQ==",
+        "ingredients": [
+            {
+                "id": "5GqCv2_Fx2bilriiVJgm4QyPBBHIUfh0LGGBBX65OURCmyFNcyLXVCNN5z29iomHjbBYj9v_ck8_qS4VGG7a7A==",
+                "name": "só",
+                "ratio": 0.06
+            },
+            {
+                "id": "Y1n8nAvE2XRPtdk_dMnSt-XZmY-x9lbOXlVs6Wu8mGWZswo4i6lic3xD8PLL-2Oje-kLheZ7vNTtE2PFIku0SQ==",
+                "name": "cukor",
+                "ratio": 0.26
+            },
+            {
+                "id": "E-z-2ee5yhkTTt_a0pH1hkjnhHvJPrRtdwxGS3VE5lNhg6Y6kgdYzMgQ1ylFFFT-8htZA4vWjp98v6YFDvTJ_w==",
+                "name": "árpa",
+                "ratio": 0.18
+            }
+        ],
+        "isCan": true,
+        "name": "Arany Ászok Világos",
+        "price": 2627,
         "water": 0.5
     },
     {
@@ -361,6 +465,32 @@
         "isCan": false,
         "name": "Arany Ászok Szűrt",
         "price": 3519,
+        "water": 0.5
+    },
+    {
+        "alcohol": "0.05",
+        "beertype": "Barna",
+        "id": "HHQN8XXoVHFbLk3tKRTEoOeiyrhLStRazzfvhP3ApMZEgW5GysVe9EtWvAFNFYshZdaiIZSYOd4vZYl9gKjjJA==",
+        "ingredients": [
+            {
+                "id": "vcxIaSqdTn_TZYK26MIEW-7l4mJIgCI1NjfNpmG3uSsd0kslY2ZS30Yc9-PsN7vU7qsKgDI70-9x1hxF2oQ7mg==",
+                "name": "só",
+                "ratio": 0.13
+            },
+            {
+                "id": "a123krxTYuLXGlY77iGdZVUQwBUueiBtX76026gu6rHn7-TXbAp5GLlji4Ck4nqlbETyf1iJ-9bABQ_o9_GgzQ==",
+                "name": "cukor",
+                "ratio": 0.17
+            },
+            {
+                "id": "HrEAdm0i4oxWiy5tE3Mu663WfVgAPMid57GwUK1wsVB4d_helr0Phd1LLupOuUi3ACwWrnkuQ5yBAXBUzvKRUw==",
+                "name": "árpa",
+                "ratio": 0.2
+            }
+        ],
+        "isCan": false,
+        "name": "Balatoni Világos Barna",
+        "price": 161,
         "water": 0.5
     },
     {
@@ -468,6 +598,58 @@
         "water": 0.5
     },
     {
+        "alcohol": "0.07",
+        "beertype": "Szűrt",
+        "id": "fwDukT3WOSaRRhPMaDMyGqo_RqzyRUu1o2TbA9zoTByvHKJPrbBEaz_0qn8NtwQUB0NKgeYkiXW6iehL1XS8Kw==",
+        "ingredients": [
+            {
+                "id": "MtZGvKNGtoJeys8asSWTozeO_NJ8mRL6L17cFICUthdoS_2aEoBtV3vPMQbRgk5JwAR37iMf4AnWI09cxk4lJQ==",
+                "name": "só",
+                "ratio": 0.19
+            },
+            {
+                "id": "StP0AUAbV3G8-Yt-srwiYZjcYm6zJmrr1TLrlpa4pHS6lvMMyKtC8jpW5Gx8WfdyTLzC1TZApLFTxbnSVE0uJQ==",
+                "name": "cukor",
+                "ratio": 0.19
+            },
+            {
+                "id": "2Vt3IKRMDlRMh8C3Z1-JhU1pPgQ77kFd87T37n2g0IjaERcYoYa5GcBhA71dtMSOAVhr29Dhx7b9GCOyLRhdWw==",
+                "name": "árpa",
+                "ratio": 0.12
+            }
+        ],
+        "isCan": false,
+        "name": "Dreher Szűrt",
+        "price": 2830,
+        "water": 0.5
+    },
+    {
+        "alcohol": "0.04",
+        "beertype": "Világos",
+        "id": "_QAkKATjOspMR9TzPDw1HSvD5MogOlJWHTSHu4M5qKuFKBUYFg0fmUKewlKVpRKkdBolmVMXE8R7WgvzvaEdzQ==",
+        "ingredients": [
+            {
+                "id": "OAjjBCp59Plc8Y2k2uu45UdZYH9zN03MT3CQPhUCSy-sXklnygwP_nthhJJ8vI8ygN4tMGKtfTeLk2sXlRM1Ug==",
+                "name": "só",
+                "ratio": 0.18
+            },
+            {
+                "id": "0acVbK1a_Gl_kY17fkzZqrIDH43Trq9oKfTUzr1NR9Aj29a-kMJrqBkcMy858T1Pb8zKef0L0OlBr6jXX0XElw==",
+                "name": "cukor",
+                "ratio": 0.21
+            },
+            {
+                "id": "dqdy1E9NFkE3Ip350Ezyg36KFTBXOSDA3AqtzwZ5o1fsc6AM0aThAFpESMmm0VvAiVEBbEiB6UxjSJrTmLJo6Q==",
+                "name": "árpa",
+                "ratio": 0.11
+            }
+        ],
+        "isCan": false,
+        "name": "Dreher Világos",
+        "price": 1158,
+        "water": 0.5
+    },
+    {
         "alcohol": "0.05",
         "beertype": "Barna",
         "id": "d3L9YpcnxzIm-p5Ef5f3siQLaAIvu8B16UHhTNp0_LEd4kkVk4z--_RVveVG4bT2UpQk-1ouDJEhbsmHFIT7QA==",
@@ -492,188 +674,6 @@
         "name": "Dreher Barna",
         "price": 992,
         "water": 0.5
-    },
-    {
-        "alcohol": "0.13",
-        "beertype": "Búza",
-        "id": "HH1ch0UhX2tJHB6FQJsvRK9CXKaqqDVuJdLInQ_t4UCCdj9u7XUwD-hEanMn__EaqsAXL_Bnn6rBEiUO_rMliw==",
-        "ingredients": [
-            {
-                "id": "_Tgqk5rSzTWNDqEBzL1xXlLa_dotthqbfGUrdmzdds_jtmGui0PjAqRjpwa-bzezcjWY7LrkLTJ9ijcj6Xme9A==",
-                "name": "só",
-                "ratio": 0.17
-            },
-            {
-                "id": "nSS61mhFV7PE5emtVQHNcMzfgSqAqWvCXwjR7VvhRMlIFbIGSy7G73fCbInJ7bh4lGhzhc19Bd-yro0Rol4hYw==",
-                "name": "cukor",
-                "ratio": 0.03
-            },
-            {
-                "id": "Elpq0BFrR09GRO7bo25smormXirVIwlVevh_APcCsRyIZ_2JVrDmjWrd6q00qyC9NsAmplMPuF3c8GlKqfR2oA==",
-                "name": "árpa",
-                "ratio": 0.3
-            }
-        ],
-        "isCan": true,
-        "name": "Arany Fácán Búza",
-        "price": 2938,
-        "water": 0.49999999999999994
-    },
-    {
-        "alcohol": "0.10",
-        "beertype": "Barna",
-        "id": "reCD63JnijspU9vR7mMZlTnLAXiy4gFa8LPkYuvBk1_svJWIEAXNzYReJggDP0uL17LfbmHitlZZwJPai-QO4g==",
-        "ingredients": [
-            {
-                "id": "_cRUSt7VlEGfblVlUmBoMfym708fQxUl2ml4x4Y9cKgoL08XeEKwZXF8ieKk6oaLUfrVcjR5sS1UCBvjiHiMUQ==",
-                "name": "só",
-                "ratio": 0.07
-            },
-            {
-                "id": "1c8WuPwAeoJXhLBpGL4rDva02CyNMEF63X0g1mMqNT_UPk1xJL1o227LYQn3oTT6S5PxCVycZWUvazfDkiV3FQ==",
-                "name": "cukor",
-                "ratio": 0.13
-            },
-            {
-                "id": "mfkP0DANOCiYqpYEuv2552vnVhUq8Vl8w1rX1tw4ShnpDc_zmNkSnMM93mOhgbgwee0mRU_sH0cY_zkRWQqsDA==",
-                "name": "árpa",
-                "ratio": 0.3
-            }
-        ],
-        "isCan": false,
-        "name": "Arany Fácán Barna",
-        "price": 1619,
-        "water": 0.49999999999999994
-    },
-    {
-        "alcohol": "0.08",
-        "beertype": "Szűrt",
-        "id": "-eFvv5L8fRMarUPw9ggDEd8Sv41Ta732FB86Wdtg8qP5UyaNNLdwsBcCj5s2an4wQiBruLy15BAnTwcu1J3Vuw==",
-        "ingredients": [
-            {
-                "id": "zz7WPeSfL4v5wLaL4mlZKXo3A2jH1rrVTwnv39ohIGEGVMvUeCLTxjYUWYS0qYobTrDdaJx6-_-GuszHn0j00g==",
-                "name": "só",
-                "ratio": 0.05
-            },
-            {
-                "id": "GDgXGs9EwR8SzwOmYH1MTm26RV_PMYUbWRfMh2u1d_wyk8Q5MyPWKGpemyPzBKyuaG2CMafwEsOTNsjH2MtUbw==",
-                "name": "cukor",
-                "ratio": 0.26
-            },
-            {
-                "id": "pAChmYvbX5uG5pP0E-dykfy-uUf9bq1xgBaKpyd8qhki8V-wYz8YvMWqfUQN0c997YvmQg-d6hxcd-aQghrvuw==",
-                "name": "árpa",
-                "ratio": 0.19
-            }
-        ],
-        "isCan": true,
-        "name": "Kőbányai Szűrt",
-        "price": 1436,
-        "water": 0.49999999999999994
-    },
-    {
-        "alcohol": "0.06",
-        "beertype": "Világos",
-        "id": "FV1Mg-OthYhTMHpwp1fDGBJ5OZ6TI3WPhXK05LeZvSTb33sUQknps_YXarWmIzaeb8zH41vZPrlbUeilz1RwvQ==",
-        "ingredients": [
-            {
-                "id": "5GqCv2_Fx2bilriiVJgm4QyPBBHIUfh0LGGBBX65OURCmyFNcyLXVCNN5z29iomHjbBYj9v_ck8_qS4VGG7a7A==",
-                "name": "só",
-                "ratio": 0.06
-            },
-            {
-                "id": "Y1n8nAvE2XRPtdk_dMnSt-XZmY-x9lbOXlVs6Wu8mGWZswo4i6lic3xD8PLL-2Oje-kLheZ7vNTtE2PFIku0SQ==",
-                "name": "cukor",
-                "ratio": 0.26
-            },
-            {
-                "id": "E-z-2ee5yhkTTt_a0pH1hkjnhHvJPrRtdwxGS3VE5lNhg6Y6kgdYzMgQ1ylFFFT-8htZA4vWjp98v6YFDvTJ_w==",
-                "name": "árpa",
-                "ratio": 0.18
-            }
-        ],
-        "isCan": true,
-        "name": "Arany Ászok Világos",
-        "price": 2627,
-        "water": 0.49999999999999994
-    },
-    {
-        "alcohol": "0.05",
-        "beertype": "Barna",
-        "id": "HHQN8XXoVHFbLk3tKRTEoOeiyrhLStRazzfvhP3ApMZEgW5GysVe9EtWvAFNFYshZdaiIZSYOd4vZYl9gKjjJA==",
-        "ingredients": [
-            {
-                "id": "vcxIaSqdTn_TZYK26MIEW-7l4mJIgCI1NjfNpmG3uSsd0kslY2ZS30Yc9-PsN7vU7qsKgDI70-9x1hxF2oQ7mg==",
-                "name": "só",
-                "ratio": 0.13
-            },
-            {
-                "id": "a123krxTYuLXGlY77iGdZVUQwBUueiBtX76026gu6rHn7-TXbAp5GLlji4Ck4nqlbETyf1iJ-9bABQ_o9_GgzQ==",
-                "name": "cukor",
-                "ratio": 0.17
-            },
-            {
-                "id": "HrEAdm0i4oxWiy5tE3Mu663WfVgAPMid57GwUK1wsVB4d_helr0Phd1LLupOuUi3ACwWrnkuQ5yBAXBUzvKRUw==",
-                "name": "árpa",
-                "ratio": 0.2
-            }
-        ],
-        "isCan": false,
-        "name": "Balatoni Világos Barna",
-        "price": 161,
-        "water": 0.49999999999999994
-    },
-    {
-        "alcohol": "0.09",
-        "beertype": "Búza",
-        "id": "0KGwlqHBjAM3DaSorL3wUUS5M1V13cCUG38kT9xCMKvTFPnReSt8CBUL_FIfj6JNmL90CQZdaABxUCAR2v-cIA==",
-        "ingredients": [
-            {
-                "id": "h8HpXC2TIGSNAKU332vPVSGVYhAmVNbbAEYRv5mf40ZNPSufxg-0hgOTp8VGUSr-x_TN76jThXVnHpV5Rq4pIQ==",
-                "name": "só",
-                "ratio": 0.06
-            },
-            {
-                "id": "2NXwTBp4UrpqUnIKRQdqBqKs0z8ILbhcCagciCbWGy8pvuYH_yOFzmRs5TI0HkyFgYYpAX9IhOUI7BDtpg0lNw==",
-                "name": "cukor",
-                "ratio": 0.07
-            },
-            {
-                "id": "kafQ5jPWX1jY2d8b8uw03kSJmRxViAV5VacX5h09R2Gwdkm-E0pVJoxf3IkAbkaDHbfn6eGw3pugvoIA4kObbA==",
-                "name": "árpa",
-                "ratio": 0.37
-            }
-        ],
-        "isCan": true,
-        "name": "Kőbányai Búza",
-        "price": 18,
-        "water": 0.4999999999999999
-    },
-    {
-        "alcohol": "0.05",
-        "beertype": "Barna",
-        "id": "WRdkKBQ3Yc8HIlWLa5scZ0WkACgduBYlk6n9obOFut0V_2YZPHySER8gu9hteUSZOpt1vy0bPj9tWQFI5KfPaQ==",
-        "ingredients": [
-            {
-                "id": "V_yENubeyPxUbuoWNAd8-tlhqCbID9-aZcNtowrIHki3HkAo68H3ch6_MMVpNWrA4WnHNy1r897zPbaKXMlPXQ==",
-                "name": "só",
-                "ratio": 0.16
-            },
-            {
-                "id": "9hThPd_ezqxNvHilzwRwoSnIGZXwLsZJqFlCX0vlO2EHLm46CyWXV11CvRUleAiA5uqtvIGJtJRrLekzbpKzsg==",
-                "name": "cukor",
-                "ratio": 0.18
-            },
-            {
-                "id": "z8ds5HBNNspN5wop4ZoP5zm_cEMCD6dGVn93xau2j-ukASgADMgpbw9c2c20-B4uTir16M04BmyL9HbtyNlnbQ==",
-                "name": "árpa",
-                "ratio": 0.16
-            }
-        ],
-        "isCan": true,
-        "name": "Kőbányai Barna",
-        "price": 8688,
-        "water": 0.4999999999999999
     },
     {
         "alcohol": "0.05",
@@ -777,6 +777,6 @@
         "isCan": false,
         "name": "Dreher Búza",
         "price": 706,
-        "water": 0.4899999999999999
+        "water": 0.49
     }
 ]

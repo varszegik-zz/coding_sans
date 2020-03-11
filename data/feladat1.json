@@ -52,7 +52,7 @@
                     "isCan": true,
                     "name": "Arany Fácán Búza",
                     "price": 2938,
-                    "water": 0.49999999999999994
+                    "water": 0.5
                 },
                 {
                     "alcohol": "0.10",
@@ -78,7 +78,7 @@
                     "isCan": false,
                     "name": "Arany Fácán Barna",
                     "price": 1619,
-                    "water": 0.49999999999999994
+                    "water": 0.5
                 },
                 {
                     "alcohol": "0.05",
@@ -265,7 +265,7 @@
                     "isCan": true,
                     "name": "Kőbányai Búza",
                     "price": 18,
-                    "water": 0.4999999999999999
+                    "water": 0.5
                 },
                 {
                     "alcohol": "0.07",
@@ -317,7 +317,7 @@
                     "isCan": true,
                     "name": "Kőbányai Szűrt",
                     "price": 1436,
-                    "water": 0.49999999999999994
+                    "water": 0.5
                 },
                 {
                     "alcohol": "0.04",
@@ -369,7 +369,7 @@
                     "isCan": true,
                     "name": "Kőbányai Barna",
                     "price": 8688,
-                    "water": 0.4999999999999999
+                    "water": 0.5
                 },
                 {
                     "alcohol": "0.10",
@@ -395,7 +395,7 @@
                     "isCan": true,
                     "name": "Kőbányai Szűretlen",
                     "price": 3114,
-                    "water": 0.5000000000000001
+                    "water": 0.5
                 }
             ],
             "brand": "Kőbányai"
@@ -452,7 +452,7 @@
                     "isCan": true,
                     "name": "Arany Ászok Világos",
                     "price": 2627,
-                    "water": 0.49999999999999994
+                    "water": 0.5
                 },
                 {
                     "alcohol": "0.07",
@@ -587,7 +587,7 @@
                     "isCan": false,
                     "name": "Balatoni Világos Barna",
                     "price": 161,
-                    "water": 0.49999999999999994
+                    "water": 0.5
                 },
                 {
                     "alcohol": "0.09",
@@ -722,7 +722,7 @@
                     "isCan": false,
                     "name": "Dreher Szűrt",
                     "price": 2830,
-                    "water": 0.5000000000000001
+                    "water": 0.5
                 },
                 {
                     "alcohol": "0.04",
@@ -748,7 +748,7 @@
                     "isCan": false,
                     "name": "Dreher Világos",
                     "price": 1158,
-                    "water": 0.5000000000000001
+                    "water": 0.5
                 },
                 {
                     "alcohol": "0.12",
@@ -774,7 +774,7 @@
                     "isCan": false,
                     "name": "Dreher Búza",
                     "price": 706,
-                    "water": 0.4899999999999999
+                    "water": 0.49
                 },
                 {
                     "alcohol": "0.05",

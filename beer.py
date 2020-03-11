@@ -35,7 +35,7 @@ class Beer:
         water = 1.00
         for ingredient in self.ingredients:
             water -= ingredient.ratio
-        return water
+        return round(water, 2)
 
 
 class Ingredient:
@@ -157,6 +157,10 @@ class Inventory:
         return sorted(data, key=attrgetter('water'), reverse=True)
 
     def create_hash_map(self):
+        """
+        This function creates a hash map of all beers. The keys are the prices rounded to the nearest hundred.
+        :return: The created hash map.
+        """
         map = {}
         for brand in self.brands:
             for beer in brand.beers:
